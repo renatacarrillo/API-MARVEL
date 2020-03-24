@@ -1,5 +1,5 @@
 # API-MARVEL
-Aplicação em php que consome a API da Marvel
+Aplicação em php e JavaScript que consome a API da Marvel
 
 Atividade para a matéria de Desenvolvimento Web I
 
